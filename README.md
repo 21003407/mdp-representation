@@ -37,12 +37,11 @@ Moving Right
 
 2.0 - Otherwise
 ### Graphical Representation
-![RL_page-0001](https://github.com/Dhanudhanaraj/mdp-representation/assets/119218812/c9c5fc75-92d5-4db0-a372-212edbb438c1)
+![WhatsApp Image 2024-02-21 at 12 22 48 PM](https://github.com/21003407/mdp-representation/assets/94828208/da89c4e9-c3ff-492d-b583-e6ca1810e592)
 
 ## PYTHON REPRESENTATION:
 ```
-# Developed by: DHANUMALYA D
-# Register Number: 212222230030
+
 
 P = {
     0:{
